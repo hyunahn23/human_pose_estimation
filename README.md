@@ -31,4 +31,4 @@ mim install "mmpose==1.3.2"
 ---
 
 ## Result
-![Result mp4](https://raw.githubusercontent.com/hyunahn23/human_pose_estimation/main/result_2.mp4)
+<video src="https://raw.githubusercontent.com/hyunahn23/human_pose_estimation/main/result_2.mp4" controls></video>
