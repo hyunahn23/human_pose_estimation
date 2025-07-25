@@ -31,5 +31,6 @@ mim install "mmpose==1.3.2"
 ---
 
 ## 📹 Result (Demo Video)
-👉 [결과 영상 보기](https://raw.githubusercontent.com/hyunahn23/human_pose_estimation/main/result_2.mp4)
+👉 [🔗 영상 바로 보기 (새 탭에서 재생)](https://raw.githubusercontent.com/hyunahn23/human_pose_estimation/main/result_2.mp4)
+
 
