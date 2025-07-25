@@ -32,5 +32,9 @@ mim install "mmpose==1.3.2"
 
 ## Result (해변가에서 제가 직접 저의 모습을 촬영한 모습입니다.)
 [![Watch the Video](https://img.shields.io/badge/🎬%20Watch%20Demo%20Video-blue?style=for-the-badge)](https://raw.githubusercontent.com/hyunahn23/human_pose_estimation/main/result_2.mp4)
+## 📹 Demo Video
+
+[▶️ result_2.mp4](result_2.mp4)
+
 
 
